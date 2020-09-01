@@ -12,3 +12,6 @@ cythan = {git = "https://github.com/Cypooos/Cythan-v3#cfd832b"}
 cythan-compiler = {git = "https://github.com/Cythan-Project/cythan-compiler#26d0194"}
 compression = "*"
 anyhow = "*"
+
+[profile.release]
+lto = true
