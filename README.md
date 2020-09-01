@@ -1,3 +1,7 @@
+[![GitHub license](https://img.shields.io/github/license/Cythan-Project/cythan-cli)](https://github.com/Cythan-Project/cythan-cli/blob/master/LICENSE)
+[![Github Workflow](https://img.shields.io/github/workflow/status/Cythan-Project/cythan-cli/Rust)](https://github.com/Cythan-Project/cythan-cli/actions)
+[![Version](https://img.shields.io/github/v/release/Cythan-Project/cythan-cli?sort=semver)](https://github.com/Cythan-Project/cythan-cli/releases)
+
 # cythan-cli
  A CLI that uses cythan-compiler and cythan to build, test and execute Cythan V3 Code
 
